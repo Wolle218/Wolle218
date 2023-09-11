@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wolle218
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning game creation
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate with nobody
 - 📫 How to reach me? text me
 
 <!---
